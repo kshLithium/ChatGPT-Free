@@ -38,7 +38,6 @@ def chat_loop():
             continue
 
         if user_input.lower() in ["q"]:  # 종료 명령어
-            print("프로그램을 종료합니다.")
             break
 
         response = ask_chatgpt(user_input)  # 질문을 챗봇에 전달하고 답변을 받음
