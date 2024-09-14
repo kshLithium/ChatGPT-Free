@@ -4,6 +4,6 @@
 2. github pat 가져오기(토큰)
 3. bash_profile 이나 zshrc
     `export GITHUB_TOKEN="본인 pat"` 추가
-4. 사용
+4. dist/에 있는 chatgpt 바이너리 실행
 
 
